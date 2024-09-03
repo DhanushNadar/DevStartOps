@@ -7,7 +7,31 @@ Welcome to **DevStartOps**, your one-stop destination to kickstart your journey 
 ## 📁 **Repository Structure**
 
 The repository is organized into various folders, each dedicated to a fundamental aspect of DevOps. Here's a breakdown of the structure:
-
+```bash
+├───01-Fundamentals
+├───02-Linux
+├───03-Networking
+├───04-VersionControlSystem
+├───05-Python
+├───06-Docker
+├───07-CI-CD
+│   ├───OWASP
+│   ├───SonarQube
+│   └───Trivy
+├───08-AWS
+├───09-Kubernetes
+│   ├───EKS
+│   ├───Kubeadm
+│   └───minikube
+├───10-InfrastructureAsCode
+├───11-ConfigurationManagment
+└───12-Monitoring
+    ├───cAdvisor
+    ├───Grafana
+    ├───Loki-Promtail
+    ├───Node-Exporter
+    └───Prometheus
+```
 
 ---
 
