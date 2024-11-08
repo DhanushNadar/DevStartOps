@@ -16,6 +16,8 @@ The repository is organized into various folders, each dedicated to a fundamenta
 ├───06-Docker
 ├───07-CI-CD
 │   ├───OWASP
+│   ├───Shared_Libraries
+│   │   └───vars
 │   ├───SonarQube
 │   └───Trivy
 ├───08-AWS
@@ -32,7 +34,6 @@ The repository is organized into various folders, each dedicated to a fundamenta
     ├───Node-Exporter
     └───Prometheus
 ```
-
 ---
 
 ### 📚 **01-Fundamentals**
